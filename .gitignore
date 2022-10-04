@@ -3,3 +3,4 @@ node_modules/
 package-lock.json
 test-html.js
 dummy_index.html
+sample-index.html
