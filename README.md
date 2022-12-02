@@ -2,7 +2,7 @@
 
 ## Description
 
-This project takes user input from the command line about anyone working on a particular project. I takes different input depending on that employees role (manager, engineer, or intern). Once all of the data is collected, the application generates an html page with cards for each employee and their information.
+This project takes user input from the command line about anyone working on a particular project. It takes different input depending on that employees role (manager, engineer, or intern). Once all of the data is collected, the application generates an html page with cards for each employee and their information.
 
 ## Table of Contents
 
